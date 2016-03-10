@@ -1,0 +1,6 @@
+.idea/
+comp/
+node_modules/
+build/
+libr/
+bower_lib/
